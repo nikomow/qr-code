@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-i made a div and put the image yeah
+i made a div, there's not much to describe it ^-^"
 
 ### Built with
 
